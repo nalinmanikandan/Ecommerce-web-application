@@ -18,9 +18,9 @@ rails db:setup
 ```
 
 ### Connecting to remote repository
-1. Create a new private repository in Bitbucket and fill the required fields:
-   1. Project name: Choose Create new project and provide a name for the project (For example `ror-assessment-mini-projects`)
-   2. Repository name: Provide a name for repository (For example `e-commerce-week-6`)
+1. Create a new private repository in github and fill the required fields:
+   1. Project name: Choose Create new project and provide a name for the project 
+   2. Repository name: Provide a name for repository (For example `e-commerce`)
    3. Access level: Select **Private repository** 
    4. Include a README? - Choose `No` from the option
    5. Include .gitignore? - Choose `No` from the option
